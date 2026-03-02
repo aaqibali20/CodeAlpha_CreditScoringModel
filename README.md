@@ -1,6 +1,6 @@
 # Credit Scoring Model
 
-## 📌 Project Overview
+##  Project Overview
 This project builds a Machine Learning based Credit Scoring Model to predict whether a loan applicant is creditworthy or not.
 
 The model analyzes financial features such as income, age, loan amount, and credit history to classify applicants as:
@@ -10,7 +10,7 @@ The model analyzes financial features such as income, age, loan amount, and cred
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -20,12 +20,12 @@ The model analyzes financial features such as income, age, loan amount, and cred
 
 ---
 
-## ⚙️ Machine Learning Algorithm
+## Machine Learning Algorithm
 - Logistic Regression
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 The model is evaluated using:
 
 - Accuracy
@@ -38,7 +38,7 @@ The model is evaluated using:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Install required libraries:
    pip install -r requirements.txt
@@ -48,7 +48,7 @@ The model is evaluated using:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 - credit_model.py → Main model file
 - requirements.txt → Dependencies
@@ -57,5 +57,5 @@ The model is evaluated using:
 
 ---
 
-## 🎯 Internship Task
+##  Internship Task
 This project is developed as part of CodeAlpha Internship Task 1.
